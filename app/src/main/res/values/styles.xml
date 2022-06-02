@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dark_six</item>
+        <item name="colorSecondary">@color/grey_blue</item>
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+</resources>
